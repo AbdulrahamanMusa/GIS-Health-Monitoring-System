@@ -1,0 +1,13 @@
+folium
+geomet
+geopandas
+geopy
+html5lib
+htmltools
+itables
+matplotlib
+pandas
+pykobo
+shiny
+shiny-semantic
+numpy==1.24.1
